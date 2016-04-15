@@ -1,0 +1,26 @@
+{
+  "name": "grunt-primerospasos",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto con grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melloema/grunt-primerospasos.git"
+  },
+  "keywords": [
+    "gruntJs"
+  ],
+  "author": "efBertoia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melloema/grunt-primerospasos/issues"
+  },
+  "homepage": "https://github.com/melloema/grunt-primerospasos",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
