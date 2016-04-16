@@ -1,0 +1,7 @@
+src/bin/www
+src/config/config.js
+.idea/*
+coverage/*
+.sonar/*
+node_modules
+.git
